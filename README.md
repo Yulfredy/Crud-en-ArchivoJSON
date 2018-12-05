@@ -6,4 +6,3 @@ node app crear -d "algo"
 node app listar  -d ""
 node app actualizar -d pensar -c true
 node app borrar -d pensar 
-```
